@@ -1,2 +1,2 @@
 # JavaScript-Project
-This game build while learning of js
+This game build while learning of js.
